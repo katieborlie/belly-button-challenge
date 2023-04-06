@@ -9,7 +9,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 ## Before You Begin
 
-1. Create a new repository for this project called `belly-button-challenge'. Do not add this Challenge to an existing repository.
+1. Create a new repository for this project called ` belly-button-challenge '. Do not add this Challenge to an existing repository.
 
 2. Clone the new repository to your computer.
 
