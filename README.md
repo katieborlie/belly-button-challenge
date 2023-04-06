@@ -9,11 +9,11 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 ## Before You Begin
 
-1. Create a new repository for this project called belly-button-challenge. Do not add this Challenge to an existing repository.
+1. Create a new repository for this project called `belly-button-challenge`. Do not add this Challenge to an existing repository.
 
 2. Clone the new repository to your computer.
 
-3. Inside your local git repository, copy the files from in the `StarterCode' folder contained within the Module 14 Challenge zip file. i.e. `index.html', `samples.json', and the `static' folder.
+3. Inside your local git repository, copy the files from in the `StarterCode` folder contained within the Module 14 Challenge zip file. i.e. `index.html`, `samples.json`, and the `static` folder.
 
 **_NOTE:_**
 
@@ -27,15 +27,15 @@ You will not be required to access the samples.json file locally, but it is prov
 
 Complete the following steps:
 
-1. Use the D3 library to read in `samples.json' from the URL https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json.
+1. Use the D3 library to read in `samples.json` from the URL `https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json.`
 
 2. Create a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that individual.
 
-  * Use `sample_values' as the values for the bar chart.
+  * Use `sample_values` as the values for the bar chart.
   
-  * Use `otu_ids' as the labels for the bar chart.
+  * Use `otu_ids` as the labels for the bar chart.
   
-  * Use `otu_labels' as the hovertext for the chart.
+  * Use `otu_labels` as the hovertext for the chart.
   
   
   <img width="490" alt="Screenshot 2023-04-06 at 8 51 13 AM" src="https://user-images.githubusercontent.com/119274891/230383780-868d480f-8e93-4c6d-bc04-7b251234b5c9.png">
@@ -43,15 +43,15 @@ Complete the following steps:
 
 3. Create a bubble chart that displays each sample.
 
-  * Use `otu_ids' for the x values.
+  * Use `otu_ids` for the x values.
 
-  * Use `sample_values' for the y values.
+  * Use `sample_values` for the y values.
 
-  * Use `sample_values' for the marker size.
+  * Use `sample_values` for the marker size.
 
-  * Use `otu_ids' for the marker colors.
+  * Use `otu_ids` for the marker colors.
 
-  * Use `otu_labels' for the text values.
+  * Use `otu_labels` for the text values.
 
 
 <img width="518" alt="Screenshot 2023-04-06 at 8 51 55 AM" src="https://user-images.githubusercontent.com/119274891/230383941-9657bad4-07d1-49e3-8a72-288339605f6f.png">
