@@ -31,11 +31,11 @@ Complete the following steps:
 
 2. Create a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that individual.
 
-  * Use `sample_values` as the values for the bar chart.
+  🦠 Use `sample_values` as the values for the bar chart.
   
-  * Use `otu_ids` as the labels for the bar chart.
+  🦠 Use `otu_ids` as the labels for the bar chart.
   
-  * Use `otu_labels` as the hovertext for the chart.
+  🦠 Use `otu_labels` as the hovertext for the chart.
   
   
   <img width="490" alt="Screenshot 2023-04-06 at 8 51 13 AM" src="https://user-images.githubusercontent.com/119274891/230383780-868d480f-8e93-4c6d-bc04-7b251234b5c9.png">
@@ -43,15 +43,15 @@ Complete the following steps:
 
 3. Create a bubble chart that displays each sample.
 
-  * Use `otu_ids` for the x values.
+  🦠 Use `otu_ids` for the x values.
 
-  * Use `sample_values` for the y values.
+  🦠 Use `sample_values` for the y values.
 
-  * Use `sample_values` for the marker size.
+  🦠 Use `sample_values` for the marker size.
 
-  * Use `otu_ids` for the marker colors.
+  🦠 Use `otu_ids` for the marker colors.
 
-  * Use `otu_labels` for the text values.
+  🦠 Use `otu_labels` for the text values.
 
 
 <img width="518" alt="Screenshot 2023-04-06 at 8 51 55 AM" src="https://user-images.githubusercontent.com/119274891/230383941-9657bad4-07d1-49e3-8a72-288339605f6f.png">
